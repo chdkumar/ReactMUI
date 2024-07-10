@@ -1,4 +1,4 @@
-import React from "react";
+/* React from "react";
 import { Provider } from "react-redux";
 import { store } from "./store/apistore";
 import { Counter } from "./components/Counter";
@@ -14,4 +14,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
